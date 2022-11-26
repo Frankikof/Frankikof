@@ -1,5 +1,4 @@
 - 👋 Olá, sou a profª Fran
+- Colégio Estadual Prof. Erasmo Braga
+- Horário de trabalho: manhã e noturno
 - A utilização do Github é para fins educacionais
-- 
-
-
